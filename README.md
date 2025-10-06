@@ -44,4 +44,4 @@ Para rodar a suíte de testes e gerar o relatório de cobertura no terminal, exe
 npm test
 ```
 
-![Resultado do Teste]()
+![Resultado do Teste]<img width="609" height="589" alt="ResultadoTest" src="https://github.com/user-attachments/assets/09a98c7b-b80a-418a-8c66-dd94016caa98" />
