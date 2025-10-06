@@ -43,3 +43,5 @@ Para rodar a suíte de testes e gerar o relatório de cobertura no terminal, exe
 ```bash
 npm test
 ```
+
+![Resultado do Teste]()
